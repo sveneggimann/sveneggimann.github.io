@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 github: is\_project\_page:false
+title: [Dr. Sven Eggimann]
+description: [A short description of your site's purpose]
+logo: [data/orcid.png]
+show_downloads: ["true"]
