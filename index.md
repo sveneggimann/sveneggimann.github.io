@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/sveneggimann/sveneggimann.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How weather affects energy demand variability in the transition towards sustainable heating. Energy, 195. 116947. [Link](https://www.sciencedirect.com/science/article/pii/S0360544220300542)
 
 ```markdown
 Syntax highlighted code block
