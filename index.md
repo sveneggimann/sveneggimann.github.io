@@ -2,7 +2,7 @@
 
 You can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use the
 
-### Publications
+### Peer-Reviewed Publications
 
 - **Eggimann, S.**, Usher, W., Eyre, N., Hall, J.W. (2020): How weather affects energy demand variability in the transition towards sustainable heating. <span style="color:GoldenRod">*Energy*</span>, 195. 116947. [https://doi.org/10.1016/j.energy.2020.116947](https://doi.org/10.1016/j.energy.2020.116947)
 
@@ -12,10 +12,16 @@ You can use theYou can use theYou can use theYou can use theYou can use theYou c
 
 - **Eggimann, S.**, Truffer, B., Feldmann, U., Maurer, M. (2018):Screening European market potentials for small modular wastewater treatment systems – an inroad to sustainability transitions in urban water management? <span style="color:GoldenRod">*Land Use Policy*</span>, 78, 711-725. [https://doi.org/10.1016/j.landusepol.2018.07.031](https://doi.org/10.1016/j.landusepol.2018.07.031)
 
-- **Eggimann, S.** Mutzner, L., Wani, O., Schneider, M.Y., Spuhler, D., Moy de Vitry, M., Beutler, P., Maurer, M. (2017):
+- **Eggimann, S.**, Mutzner, L., Wani, O., Schneider, M.Y., Spuhler, D., Moy de Vitry, M., Beutler, P., Maurer, M. (2017):
 The potential of knowing more–a review of data-driven urban water management. <span style="color:GoldenRod">*Environmental Science & Technology*</span>, 51, 2538−2553. [https://doi.org/10.1021/acs.est.6b04267](https://doi.org/10.1021/acs.est.6b04267)
 
 
+- **Eggimann, S.**, Truffer, B., Maurer, M. (2016): The cost of hybrid waste water systems: a systematic framework for specifying minimum cost-connection rates, <span style="color:GoldenRod">*Water Research*</span>, 472 - 484. [https://doi.org/10.1016/j.watres.2016.07.062](https://doi.org/10.1016/j.watres.2016.07.062)
+
+- **Eggimann, S.**, Truffer, B., Maurer, M. (2016): Economies of density for on-site waste water treatment. <span style="color:GoldenRod">*Water Research*</span>, 101, 15, 476-489. [https://doi.org/10.1016/j.watres.2016.06.011](https://doi.org/10.1016/j.watres.2016.06.011).
+
+- **Eggimann, S.**, Truffer, B., Maurer, M. (2015): To connect or not to connect? Modelling the optimal degree of centralisation for wastewater infrastructures. <span style="color:GoldenRod">*Water Research*</span>,  84, 1, 2015, 218-231.
+ [https://doi.org/10.1016/j.watres.2015.07.004](https://doi.org/10.1016/j.watres.2015.07.004)
 
 ```markdown
 Syntax highlighted code block
@@ -37,10 +43,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Prices and Awards
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sveneggimann/sveneggimann.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/)
+- ETH Medal for outstanding doctoral thesis
+- First prize of the Swiss Association for Applied Geography
