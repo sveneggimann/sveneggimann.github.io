@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
-
+---
 You can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use the
 
 ### Peer-Reviewed Publications
-
+---
 - **Eggimann, S.**, Usher, W., Eyre, N., Hall, J.W. (**2020**): How weather affects energy demand variability in the transition towards sustainable heating. <span style="color:GoldenRod">*Energy*</span>, 195. 116947. [https://doi.org/10.1016/j.energy.2020.116947](https://doi.org/10.1016/j.energy.2020.116947)
 
 - Moy de Vitry, M., Schneider, M.Y, Wani, O.F, Manny, L., Leitão, J.P., **Eggimann, S.** (**2019**): Smart urban water systems: what could possibly go wrong? <span style="color:GoldenRod">*Environmental Research Letters*</span>., 14, 8, 081001. [https://doi.org/10.1088/1748-9326/ab3761](https://doi.org/10.1088/1748-9326/ab3761)
@@ -20,6 +20,17 @@ The potential of knowing more–a review of data-driven urban water management. 
 - **Eggimann, S.**, Truffer, B., Maurer, M. (**2016**): Economies of density for on-site waste water treatment. <span style="color:GoldenRod">*Water Research*</span>, 101, 15, 476-489. [https://doi.org/10.1016/j.watres.2016.06.011](https://doi.org/10.1016/j.watres.2016.06.011).
 
 - **Eggimann, S.**, Truffer, B., Maurer, M. (**2015**): To connect or not to connect? Modelling the optimal degree of centralisation for wastewater infrastructures. <span style="color:GoldenRod">*Water Research*</span>,  84, 1, 2015, 218-231. [https://doi.org/10.1016/j.watres.2015.07.004](https://doi.org/10.1016/j.watres.2015.07.004)
+
+### Prices and Awards
+***
+- 2019 [ETH Medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) for outstanding doctoral thesis
+
+- 2016 First prize of the [Swiss Association for Applied Geography](http://www.sgag.ch/).
+
+### Education
+---
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -40,8 +51,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Prices and Awards
-
-- ETH Medal for outstanding doctoral thesis
-- First prize of the Swiss Association for Applied Geography
