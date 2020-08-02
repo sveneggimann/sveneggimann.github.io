@@ -1,12 +1,21 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sveneggimann/sveneggimann.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use the
 
 ### Publications
 
-How weather affects energy demand variability in the transition towards sustainable heating. Energy, 195. 116947. [Link](https://www.sciencedirect.com/science/article/pii/S0360544220300542)
+- **Eggimann, S.**, Usher, W., Eyre, N., Hall, J.W. (2020): How weather affects energy demand variability in the transition towards sustainable heating. <span style="color:GoldenRod">*Energy*</span>, 195. 116947. [https://doi.org/10.1016/j.energy.2020.116947](https://doi.org/10.1016/j.energy.2020.116947)
+
+- Moy de Vitry, M., Schneider, M.Y, Wani, O.F, Manny, L., Leitão, J.P., **Eggimann, S.**(2019): Smart urban water systems: what could possibly go wrong? <span style="color:GoldenRod">*Environmental Research Letters*</span>., 14, 8, 081001. [https://doi.org/10.1088/1748-9326/ab3761](https://doi.org/10.1088/1748-9326/ab3761)
+
+- **Eggimann, S.**, Hall, J.W, Eyre, N. (2019) :A high-resolution spatio-temporal energy demand simulation to explore the potential of heating demand side management with large-scale heat pump diffusion. <span style="color:GoldenRod">*Applied Energy*</span>, 236, 997-1010. [https://doi.org/10.1016/j.apenergy.2018.12.052](https://doi.org/10.1016/j.apenergy.2018.12.052)
+
+- **Eggimann, S.**, Truffer, B., Feldmann, U., Maurer, M. (2018):Screening European market potentials for small modular wastewater treatment systems – an inroad to sustainability transitions in urban water management? <span style="color:GoldenRod">*Land Use Policy*</span>, 78, 711-725. [https://doi.org/10.1016/j.landusepol.2018.07.031](https://doi.org/10.1016/j.landusepol.2018.07.031)
+
+- **Eggimann, S.** Mutzner, L., Wani, O., Schneider, M.Y., Spuhler, D., Moy de Vitry, M., Beutler, P., Maurer, M. (2017):
+The potential of knowing more–a review of data-driven urban water management. <span style="color:GoldenRod">*Environmental Science & Technology*</span>, 51, 2538−2553. [https://doi.org/10.1021/acs.est.6b04267](https://doi.org/10.1021/acs.est.6b04267)
+
+
 
 ```markdown
 Syntax highlighted code block
