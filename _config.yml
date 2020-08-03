@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
-github: is\_project\_page:false
+github:
+  is_project_page: "false"
 title: "Dr. Sven Eggimann"
 description: "A short description of your site's purpose"
 logo: "data/image_sven.jpeg"
