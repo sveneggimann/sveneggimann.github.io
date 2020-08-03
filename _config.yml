@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
+#theme: jekyll-theme-cayman
 github: is\_project\_page:false
 title: "Dr. Sven Eggimann"
 description: "A short description of your site's purpose"
-logo: "data/orcid.png"
-#show_downloads: "true"
+logo: "data/image_sven.jpeg"
+show_downloads: "false"
 minimal_mistakes_skin: "aqua" # default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"

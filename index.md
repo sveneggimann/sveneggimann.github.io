@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## About myself
 ---
 You can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use the
+
+[Contact](https://www.empa.ch/web/egsv)
 
 ### Peer-Reviewed Publications
 ---
@@ -21,11 +23,17 @@ The potential of knowing more–a review of data-driven urban water management. 
 
 - **Eggimann, S.**, Truffer, B., Maurer, M. (**2015**): To connect or not to connect? Modelling the optimal degree of centralisation for wastewater infrastructures. <span style="color:GoldenRod">*Water Research*</span>,  84, 1, 2015, 218-231. [https://doi.org/10.1016/j.watres.2015.07.004](https://doi.org/10.1016/j.watres.2015.07.004)
 
+### Thesis
+---
+- **Eggimann S. (2016)**: The optimal degree of centralisation for wastewater infrastructures. A model-based geospatial economic analysis. Doctoral Thesis. ETH Zurich, Switzerland. [https://doi.org/10.3929/ethz-a-010811248](https://doi.org/10.3929/ethz-a-010811248)
+
+- **Eggimann, S., 2013**: Potential for a sustainability transition of decentralised wastewater systems for Switzerland on the level of urban structural units. Master Thesis. University of Zürich, Switzerland. [Link](https://www.eawag.ch/fileadmin/Domain1/Abteilungen/ess/news/2015/2013_thesis_eggimann.pdf)
+
 ### Prices and Awards
 ***
-- 2019 [ETH Medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) for outstanding doctoral thesis
+- 2019 - [ETH Medal](https://ethz.ch/en/the-eth-zurich/education/awards/eth-medal.html) for outstanding doctoral thesis
 
-- 2016 First prize of the [Swiss Association for Applied Geography](http://www.sgag.ch/).
+- 2014 - #1 Prize: Best Masterthesis [Swiss Association for Applied Geography](http://www.sgag.ch/).
 
 ### Education
 ---
@@ -50,4 +58,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
