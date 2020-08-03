@@ -8,7 +8,7 @@ You can use theYou can use theYou can use theYou can use theYou can use theYou c
 ---
 - **Eggimann, S.**, Usher, W., Eyre, N., Hall, J.W. (**2020**): How weather affects energy demand variability in the transition towards sustainable heating. <span style="color:GoldenRod">*Energy*</span>, 195. 116947. [https://doi.org/10.1016/j.energy.2020.116947](https://doi.org/10.1016/j.energy.2020.116947)
 
-- Moy de Vitry, M., Schneider, M.Y, Wani, O.F, Manny, L., Leitão, J.P., **Eggimann, S.** (**2019**): Smart urban water systems: what could possibly go wrong? <span style="color:GoldenRod">*Environmental Research Letters*</span>., 14, 8, 081001. [https://doi.org/10.1088/1748-9326/ab3761](https://doi.org/10.1088/1748-9326/ab3761)
+- Moy de Vitry, M., Schneider, M.Y, Wani, O.F, Manny, L., Leitão, J.P., **Eggimann, S.** (**2019**): Smart urban water systems: what could possibly go wrong? <span style="color:GoldenRod">*Environmental Research Letters*</span>, 14, 8, 081001. [https://doi.org/10.1088/1748-9326/ab3761](https://doi.org/10.1088/1748-9326/ab3761)
 
 - **Eggimann, S.**, Hall, J.W, Eyre, N. (**2019**): A high-resolution spatio-temporal energy demand simulation to explore the potential of heating demand side management with large-scale heat pump diffusion. <span style="color:GoldenRod">*Applied Energy*</span>, 236, 997-1010. [https://doi.org/10.1016/j.apenergy.2018.12.052](https://doi.org/10.1016/j.apenergy.2018.12.052)
 
