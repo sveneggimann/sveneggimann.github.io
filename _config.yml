@@ -5,6 +5,6 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: "Dr. Sven Eggimann"
 description: "A short description of your site's purpose"
-logo: "data/image_sven.jpeg"
 show_downloads: false
+logo: "data/image_sven.jpeg"
 minimal_mistakes_skin: "aqua" # default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
