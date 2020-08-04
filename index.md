@@ -1,6 +1,10 @@
 ## About myself
 ---
-You can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use theYou can use the
+I am an experienced researcher of urban infrastructure systems. My particular interests lie in sustainable transitions of current infrastructures, planning, geospatial analysis using Geographical Information Systems and next-generation infrastructures. I'm currently working as a Scientist at EMPA, Switzerland.
+
+I have a highly interdisciplinary background and my research is bridging the fields of planning, economics, environmental sciences and engineering. Before moving to EMPA, I was part of the Infrastructure Transition Research Consortium leading the development of a national energy demand simulation model for an integrated system-of-systems model (called NISMOD2) at the Environmental Change Institute at Oxford University. I'm the author of a diverse range of peer-reviewed articles in academic journals such as Applied Energy, Water Research, Environmental Research Letters or Environmental Science & Technology.
+
+I have received a PhD at the Swiss Federal Institute of Aquatic Science and Technology (EAWAG) and at the Swiss Federal Institute of Technology (ETH). In my PhD thesis I have analysed the potential for a sustainability transition of decentralised wastewater treatment systems. For my work, I received one of the prestigious ETH medals. Prior to this, I was awarded a MSc in Geography with specialization in Geographical Information Systems (GIS) at University of Zürich.
 
 [Contact](https://www.empa.ch/web/egsv)
 
@@ -36,8 +40,14 @@ The potential of knowing more–a review of data-driven urban water management. 
 - 2014 - #1 Prize: Best Masterthesis [Swiss Association for Applied Geography](http://www.sgag.ch/).
 
 ### Education
----
 
+|                   |                   |    |
+| -------------     |  -----            |:-----|
+| 2019 - current    | EMPA, Dübendorf   | Scientist |
+| 2016 - 2019       | Oxford            | Postdoctoral position |
+| 2013 - 2016       | EAWAG & ETH, Zürich  | PhD |
+| 2010 - 2013       | University of Zürich  |Teaching Diploma
+| 2010 - 2013       | Zürich            | Msc in Geography|
 
 
 ```markdown
