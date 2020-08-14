@@ -8,8 +8,11 @@ I have received a PhD at the Swiss Federal Institute of Aquatic Science and Tech
 
 [Contact](https://www.empa.ch/web/egsv)
 
-### Peer-Reviewed Publications
+### Publications (Peer-Reviewed & Preprints)
 ---
+
+- Zorn, C., Koks, E., **Eggimann, S.** (**2020**): Demand side management impacts on electricity network vulnerability. <span style="color:GoldenRod">Arxiv Pre-Print.</span> [http://arxiv.org/abs/2008.04954](http://arxiv.org/abs/2008.04954)
+
 - **Eggimann, S.**, Usher, W., Eyre, N., Hall, J.W. (**2020**): How weather affects energy demand variability in the transition towards sustainable heating. <span style="color:GoldenRod">*Energy*</span>, 195. 116947. [https://doi.org/10.1016/j.energy.2020.116947](https://doi.org/10.1016/j.energy.2020.116947)
 
 - Moy de Vitry, M., Schneider, M.Y, Wani, O.F, Manny, L., Leitão, J.P., **Eggimann, S.** (**2019**): Smart urban water systems: what could possibly go wrong? <span style="color:GoldenRod">*Environmental Research Letters*</span>, 14, 8, 081001. [https://doi.org/10.1088/1748-9326/ab3761](https://doi.org/10.1088/1748-9326/ab3761)

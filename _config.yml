@@ -4,7 +4,17 @@ theme: jekyll-theme-minimal
 #  is_project_page: false
 github: is\_project\_page:false
 title: "Dr. Sven Eggimann"
-description: "[Contact](https://www.empa.ch/web/egsv)"
+description: >
+  I am an experienced researcher of urban infrastructure systems.
+  My particular interests lie in sustainable transitions of current
+  infrastructures, planning, geospatial analysis using Geographical
+  Information Systems and next-generation infrastructures.
+  I'm currently working as a Scientist at EMPA, Switzerland.
+  <br><br>
+  Contact 
+  <br><br>
+  <a href="https://scholar.google.ch/citations?user=t_s-r4UAAAAJ&hl=de">Google Scholar</a>
+
 show_downloads: false
 logo: "data/image_sven.jpeg"
 minimal_mistakes_skin: "aqua" # default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
