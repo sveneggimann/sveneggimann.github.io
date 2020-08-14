@@ -39,15 +39,21 @@ The potential of knowing more–a review of data-driven urban water management. 
 
 - 2014 - #1 Prize: Best Masterthesis [Swiss Association for Applied Geography](http://www.sgag.ch/).
 
-### Education
+### Education and Experience
+---
+I optained a Msc in Geography with a major in Geographic Information Systems and a minor in 
+Environmental Sciences, Agricultural Economics and
+Spatial Planning and Regional Development.
 
-|                   |                   |    |
-| -------------     |  -----            |:-----|
-| 2019 - current    | EMPA, Dübendorf   | Scientist |
-| 2016 - 2019       | Oxford            | Postdoctoral position |
-| 2013 - 2016       | EAWAG & ETH, Zürich  | PhD |
-| 2010 - 2013       | University of Zürich  |Teaching Diploma
-| 2010 - 2013       | Zürich            | Msc in Geography|
+
+
+| Year              |  Place                | Activity     |
+| -------------     |  -----                | :-----       |
+| 2019 - current    |  EMPA, Dübendorf      | Scientist |
+| 2016 - 2019       |  Oxford               | Postdoctoral position |
+| 2013 - 2016       | EAWAG & ETH, Zürich   | PhD |
+| 2010 - 2013       | University of Zürich  | Teaching Diploma
+| 2010 - 2013       | Zürich                | Msc in Geography, **Major**: Geographic Information Systems. **Minor**: Environmental Sciences, Agricultural Economics, Spatial Planning and Regional Development.|
 
 
 ```markdown
