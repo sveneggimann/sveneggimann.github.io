@@ -44,36 +44,5 @@ The potential of knowing more–a review of data-driven urban water management. 
 
 ### Education and Experience
 ---
-I optained a Msc in Geography with a major in Geographic Information Systems and a minor in 
-Environmental Sciences, Agricultural Economics and
-Spatial Planning and Regional Development.
-
-
-
-| Year              |  Place                | Activity     |
-| -------------     |  -----                | :-----       |
-| 2019 - current    |  EMPA, Dübendorf      | Scientist |
-| 2016 - 2019       |  Oxford               | Postdoctoral position |
-| 2013 - 2016       | EAWAG & ETH, Zürich   | PhD |
-| 2010 - 2013       | University of Zürich  | Teaching Diploma
-| 2010 - 2013       | Zürich                | Msc in Geography, **Major**: Geographic Information Systems. **Minor**: Environmental Sciences, Agricultural Economics, Spatial Planning and Regional Development.|
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+I optained a Msc in Geography with a Major in Geographic Information Systems (GIS) and Minors in 
+Environmental Sciences, Agricultural Economics, Spatial Planning and Regional Development. I have been researching at Eawag, Oxford University and Empa.
