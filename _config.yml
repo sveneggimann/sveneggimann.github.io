@@ -5,15 +5,12 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: "Dr. Sven Eggimann"
 description: >
-  I am an experienced researcher of urban infrastructure systems.
-  My particular interests lie in sustainable transitions of the
-  urban built form, planning, geospatial analysis using geospatial
-  analysis and smart, next-generation infrastructures.
-  I amm currently working as a Scientist at EMPA, Switzerland.
+  sven.eggimann@empa.ch
   <br><br>
-  Contact 
+  <a href="https://www.empa.ch/web/egsv">Institutional Website</a>
   <br><br>
   <a href="https://scholar.google.ch/citations?user=t_s-r4UAAAAJ&hl=de">Google Scholar</a>
+  <br><br>
 
 show_downloads: false
 logo: "data/image_sven.jpeg"
